@@ -1,3 +1,3 @@
 # Homemanager App for Homebridge and HOOBS
 
-Feel free open a issue.
+Feel free to open a issue.
